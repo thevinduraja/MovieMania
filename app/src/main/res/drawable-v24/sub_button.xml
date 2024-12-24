@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape  android:shape="rectangle" >
+            <corners
+                android:radius="8dp"
+                />
+            <size
+                android:height="40dp"
+                />
+            <stroke
+                android:width="5dp"
+                android:color="@color/sBtnBorder"
+                />
+            <gradient
+                android:type="linear"
+                android:startColor="@color/sBtnBg"
+                android:endColor="@color/sBtnBg1"
+                />
+        </shape>
+    </item>
+</layer-list>

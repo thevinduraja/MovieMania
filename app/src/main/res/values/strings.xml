@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieMania</string>
+    <string name="movie_mania">Movie Mania</string>
+    <string name="register_movies">Register Movies</string>
+    <string name="display_movies">Display Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="edit_movies">Edit Movies</string>
+    <string name="search">Search</string>
+    <string name="ratings">Ratings</string>
+    <string name="register_a_movie">Register A Movie</string>
+    <string name="title_of_the_movie">Title of the Movie</string>
+    <string name="year_of_the_movie">Year of the Movie</string>
+    <string name="director_of_the_movie">Director of the Movie</string>
+    <string name="cast">Cast</string>
+    <string name="rating">Rating</string>
+    <string name="review">Review</string>
+    <string name="save">Save</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="favourite_movies">Favourite Movies</string>
+    <string name="update">Update</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="enter_your_keywords_here">Enter Your Keywords Here</string>
+    <string name="lookup">Lookup</string>
+    <string name="find_movie_in_imdb">Find movie in IMDB</string>
+</resources>
